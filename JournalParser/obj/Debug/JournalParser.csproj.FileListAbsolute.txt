@@ -1,0 +1,6 @@
+C:\Users\emiliano\Documents\Visual Studio Projects\hap-revit-usage-statistics\JournalParser\bin\Debug\ACPV.Utilities.JournalParser.dll
+C:\Users\emiliano\Documents\Visual Studio Projects\hap-revit-usage-statistics\JournalParser\bin\Debug\ACPV.Utilities.JournalParser.pdb
+C:\Users\emiliano\Documents\Visual Studio Projects\hap-revit-usage-statistics\JournalParser\obj\Debug\JournalParser.csprojAssemblyReference.cache
+C:\Users\emiliano\Documents\Visual Studio Projects\hap-revit-usage-statistics\JournalParser\obj\Debug\JournalParser.csproj.CoreCompileInputs.cache
+C:\Users\emiliano\Documents\Visual Studio Projects\hap-revit-usage-statistics\JournalParser\obj\Debug\ACPV.Utilities.JournalParser.dll
+C:\Users\emiliano\Documents\Visual Studio Projects\hap-revit-usage-statistics\JournalParser\obj\Debug\ACPV.Utilities.JournalParser.pdb
